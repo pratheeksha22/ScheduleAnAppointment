@@ -8,6 +8,6 @@ Learn With Us is a Facebook page through which the users can make an appointment
 1. Login to Facebook account and search for the page "Learn With Us".
 2. Type any sample utterances "I would like to book an appointment", "Book an appointment","Hi I have an enquiry" in the messenger section.
 3. Select Appointment Type 
-4. Appointment date would be prompted (M-F available, Weekend office close), user may enter response in 3 ways: (1) Type utterance such as: today, tomorrow, next Wednesday, next      Wed, etc.  (2) Click on the options on response card button.
+4. Appointment date would be prompted (M-F available, Weekend office close), user may enter response in 2 ways: (1) Type utterance such as: today, tomorrow, next Wednesday, next      Wed, etc.  (2) Click on the options on response card button.
 5. Select time and Confirm appointment.
 6. Additionally, appointment reminder can be set to an external calendar API (ie. Google Calendar).
