@@ -225,7 +225,7 @@ def build_validation_result(is_valid, violated_slot, message_content):
 
 def validate_book_appointment(appointment_type, date, appointment_time):
     if appointment_type and not get_duration(appointment_type):
-        return build_validation_result(False, 'AppointmentType', 'I did not recognize that, can I book you a root canal, cleaning, or whitening?')
+        return build_validation_result(False, 'AppointmentType', 'I did not recognize that, can I book you a gre, toefl, or admission session?')
 
     if appointment_time:
         if len(appointment_time) != 5:
